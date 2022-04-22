@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ minecraft:nether_wart[age=3] run title @s actionbar {"text":"These nether warts are NOT fully grown", "color":"red"}
